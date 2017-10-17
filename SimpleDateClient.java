@@ -1,5 +1,5 @@
 /* A client program to display SimpleDate object values
-   Woodcox, Gregory
+   -GW
 */
 
 import java.awt.*;
