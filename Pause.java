@@ -1,5 +1,5 @@
 /* Pause class to pause applications
-   Woodcox, Gregory
+   GW
 */
 
 public class Pause
