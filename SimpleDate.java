@@ -1,5 +1,5 @@
 /* A simple date class
-   Woodcox, Gregory
+   -GW
 */
 
 public class SimpleDate
